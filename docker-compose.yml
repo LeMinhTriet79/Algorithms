@@ -1,0 +1,6 @@
+version: '3.8'
+services:
+  order-api:
+    image: openjdk:21
+  payment-api:
+    image: openjdk:21
